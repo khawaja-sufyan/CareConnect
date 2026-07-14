@@ -27,4 +27,4 @@ ASP.NET MVC application with SQL Server.
 
 ## Connect With Me
 
-LinkedIn: your-link
+LinkedIn:linkedin.com/in/sufyan-ahmed-se
